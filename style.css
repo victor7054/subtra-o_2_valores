@@ -1,0 +1,39 @@
+body{
+    background-image: url("https://wallpaperaccess.com/full/2637581.jpg");
+    margin: 600px;
+    margin-top: 50px;
+    
+}
+td {
+    border: solid 5px rgb(0, 0, 0);
+    text-align: center;
+    width: 70dvh;
+    margin: 100px;
+    vertical-align: top;
+}
+tr{
+    text-align: center;
+    background-color: rgb(116, 22, 153);
+}
+table{
+    border: solid 5px rgb(255, 255, 255);
+    font-size: 25px;
+    
+}
+button{
+    border-radius: 12%;
+    font-family:fantasy;
+    font-size: 20px;
+}
+table:hover{
+    transition: 0.3s;
+    background-color: greenyellow
+}
+label:hover{
+    transition: 0.3s;
+    background-color: crimson;
+}
+button:hover{
+    transition: 0.3s;
+    background-color: darkgoldenrod
+}
